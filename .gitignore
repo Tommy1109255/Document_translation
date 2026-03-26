@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.docx_translated.docx
+*.pptx_translated.pptx
+*.pdf_translated.pdf
+test_input.docx
+test_trans.pdf
+test.docx
+test.pdf
+test.pptx
+translated_*
+.streamlit/

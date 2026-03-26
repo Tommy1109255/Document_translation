@@ -1,0 +1,8 @@
+streamlit
+python-docx
+python-pptx
+pdfplumber
+pymupdf
+translators
+pandas
+openpyxl
