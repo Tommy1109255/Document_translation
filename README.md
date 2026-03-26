@@ -1,5 +1,5 @@
 
-# Document_translation
+# Document_translation（FREE）
 Based on the Streamli website's support for.docx, .ppt and.pdf document translations (currently in Chinese and English)
 =======
 #  DocTrans: Python Document Translator
