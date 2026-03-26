@@ -3,7 +3,7 @@
 Based on the Streamli website's support for.docx, .ppt and.pdf document translations (currently in Chinese and English ONLY)
 =======
 #  DocTrans: Python Document Translator
-#This has been deployed on Streamli iCloud
+#  This has been deployed on Streamli iCloud
 https://documenttranslation-dlhtczysz4epexymqxjaqm.streamlit.app/
 
 DocTrans is a modern, lightweight, and easy-to-use document translation software built with Python. It allows users to translate documents (`.docx`, `.pdf`, `.pptx`) between English and Simplified Chinese while striving to maintain the original layout.
@@ -50,6 +50,3 @@ Open your browser at `http://localhost:8501` to use the tool.
 ##  Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 Looking forward to the emergence of more languages
-
----
->>>>>>> 335c39e (Initial commit: Professional document translation software with batch processing)
