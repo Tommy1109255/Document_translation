@@ -1,6 +1,6 @@
 
 # Document_translation（FREE）
-Based on the Streamli website's support for.docx, .ppt and.pdf document translations (currently in Chinese and English)
+Based on the Streamli website's support for.docx, .ppt and.pdf document translations (currently in Chinese and English ONLY)
 =======
 #  DocTrans: Python Document Translator
 #This has been deployed on Streamli iCloud
@@ -49,6 +49,7 @@ Open your browser at `http://localhost:8501` to use the tool.
   
 ##  Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
+Looking forward to the emergence of more languages
 
 ---
 >>>>>>> 335c39e (Initial commit: Professional document translation software with batch processing)
