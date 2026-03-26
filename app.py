@@ -1,7 +1,10 @@
 import streamlit as st
 import os
-# Ensure translator uses local region for better connectivity in China
-os.environ["translators_default_region"] = "CN"
+
+# Only set CN region automatically if we suspect we are in a China network environment
+if os.environ.get("translators_default_region") is None:
+    if os.path.exists('/Users/'): # Local Mac
+        os.environ["translators_default_region"] = "CN"
 
 import tempfile
 from core.translator import DocTranslator
